@@ -1,8 +1,8 @@
 <h1 align="center">Ahmer Mehmood</h1>
 
 <p align="center">
-  <strong>Junior Data Engineer</strong><br>
-  SQL (PostgreSQL) • Python • ETL • Data Modeling • Query Optimization<br>
+  <strong>Data Analyst | Aspiring Data Engineer</strong><br>
+  SQL (PostgreSQL) • Python • Power BI • ETL Concepts • Data Modeling<br>
   Islamabad, Pakistan
 </p>
 
@@ -13,22 +13,20 @@
   <a href="mailto:ahmermehmood0007@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://www.kaggle.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge"/>
-  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Data Engineer focused on building structured data systems and scalable pipelines.
+Data Analyst with a strong foundation in SQL (PostgreSQL), Python, and Power BI, focused on transforming raw data into structured, meaningful insights for decision-making.
 
-- Advanced SQL (Joins, CTEs, Window Functions)
-- Relational Database Schema Design
-- Query Optimization & Indexing
-- Python-based ETL Pipelines
-- Working toward Cloud Data Engineering (AWS & Modern Data Stack)
+- Strong in SQL (Joins, CTEs, Window Functions, Aggregations)
+- Experience with data cleaning and transformation using Python (Pandas)
+- Built interactive dashboards using Power BI
+- Hands-on experience with real-world datasets across multiple domains
+
+Currently transitioning towards Data Engineering by learning data pipelines, ETL workflows, and workflow orchestration tools.
 
 ---
 
@@ -46,23 +44,15 @@ Data Engineer focused on building structured data systems and scalable pipelines
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://www.postgresql.org/docs/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
-  </a>
 </p>
 
-### 🔹 Data Engineering & Analytics
+### 🔹 Data Analytics & Engineering Foundations
 
 <p>
-  <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank">
-    <img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Data_modeling" target="_blank">
-    <img src="https://img.shields.io/badge/Data_Modeling-6A1B9A?style=for-the-badge"/>
-  </a>
-  <a href="https://use-the-index-luke.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Query_Optimization-2E7D32?style=for-the-badge"/>
-  </a>
+  <img src="https://img.shields.io/badge/Data_Analysis-2E7D32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ETL_Concepts-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Modeling-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Query_Optimization-1565C0?style=for-the-badge"/>
   <a href="https://powerbi.microsoft.com/" target="_blank">
     <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge"/>
   </a>
@@ -86,14 +76,22 @@ Data Engineer focused on building structured data systems and scalable pipelines
 
 ## 📂 Featured Projects
 
-### 🏥 Hospital Database System
-Designed relational schema and optimized SQL reporting queries.
+### 📊 Sales Data Analysis (SQL)
+Analyzed sales data using PostgreSQL to identify trends, top-performing products, and revenue patterns.
 
-### 📊 Sales Data Analysis
-Built advanced PostgreSQL reporting tables using joins and aggregations.
+### 🦠 COVID-19 Data Analysis (SQL)
+Performed SQL-based analysis on global COVID-19 data to track cases, deaths, and vaccination trends.
 
-### 🔄 Python ETL Pipeline
-Developing a full Extract → Transform → Load workflow using Python and PostgreSQL.
+### 📈 Sales Dashboard (Power BI)
+Developed an interactive Power BI dashboard to visualize KPIs such as revenue, profit, and regional performance.
+
+---
+
+## 🚀 Current Focus
+
+- Learning ETL pipelines and workflow orchestration (Airflow)  
+- Strengthening SQL for advanced data processing  
+- Moving towards Data Engineering roles  
 
 ---
 
@@ -112,4 +110,3 @@ Developing a full Extract → Transform → Load workflow using Python and Postg
     alt="Contribution Graph"
   />
 </p>
-
